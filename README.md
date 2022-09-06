@@ -1,6 +1,6 @@
 ## **CURSO REACT ROCKETSEAT**
 
-### Primeiro desafio React Ignite
+### Primeiro desafio - Conceitos do React
 
 # 💻 Sobre o desafio
 
