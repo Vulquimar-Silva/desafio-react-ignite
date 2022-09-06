@@ -1,6 +1,6 @@
 ## **CURSO REACT ROCKETSEAT**
 
-### 1. Desafio React Ignite
+### Desafio React Ignite
 
 # 💻 Sobre o desafio
 
